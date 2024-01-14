@@ -10,6 +10,7 @@ As a software engineer, I love the art of crafting creative websites and thrive 
 
 <a href="https://www.linkedin.com/in/rashed9810/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="rashed9810 | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/rashed_mahmud7"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="rashed_mahmud7 | Instagram" width="21px"/></a>
+<a href="https://instagram.com/rashed_mahmud7"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="rashed_mahmud7 | Instagram" width="21px"/></a>
 
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
@@ -18,13 +19,42 @@ As a software engineer, I love the art of crafting creative websites and thrive 
 
 l
 
-## 🌱 I'm currently learning js, reactjs, nodejs, mongoDB
-
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
-
+🌱 I'm currently learning:
+JavaScript
+React.js
+Node.js
+MongoDB
+Frontend (React.js):
+React.js Fundamentals
+JSX (JavaScript XML)
+State Management (React Hooks, Redux)
+Client-side Routing (React Router)
+API Integration
+Responsive Design (Bootstrap, Material-UI)
+Testing (Jest, React Testing Library)
+Backend (Node.js):
+Node.js Basics
+Express.js
+RESTful API Design
+Database Knowledge (MongoDB, MySQL)
+Authentication and Authorization (JWT, OAuth)
+Middleware in Express.js
+Testing (Mocha, Chai, Supertest)
+Additional Full Stack Skills:
+Version Control (Git, GitHub, GitLab)
+Command Line/Shell
+Web Security (HTTPS, encryption, secure coding)
+Containerization (Docker)
+Web Servers (Nginx, Apache)
+Additional Frontend Skills:
+React Native (for mobile development)
+Firebase (Backend as a Service)
+React Context API
+Styled Components
+Soft Skills:
+Communication
+Problem-Solving
+Agile/Scrum Methodologies
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
