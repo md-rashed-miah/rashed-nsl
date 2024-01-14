@@ -10,8 +10,12 @@ As a software engineer, I love the art of crafting creative websites and thrive 
 
 <a href="https://www.linkedin.com/in/rashed9810/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="rashed9810 | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/rashed_mahmud7"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="rashed_mahmud7 | Instagram" width="21px"/></a>
-<a href="https://instagram.com/rashed_mahmud7"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="rashed_mahmud7 | Instagram" width="21px"/></a>
-
+<a href="https://twitter.com/rashed_mahmud7">
+  <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/twitter.svg" alt="rashed_mahmud7 | Twitter" width="21px"/>
+</a>
+<a href="https://www.facebook.com/rashed.mahamud.10/">
+  <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/facebook.svg" alt="Rashed Mahmud | Facebook" width="21px"/>
+</a>
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
