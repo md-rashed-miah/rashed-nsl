@@ -1,12 +1,12 @@
 👋 Hi there! I'm Md Rashed Miah, a passionate frontend engineer with a knack for crafting compelling user experiences using technologies like JavaScript and React. But that's not all – I'm also well-versed in MongoDB, adding a robust backend touch to my projects. Beyond the frontend, I bring a wealth of experience as an AI engineer, delving into the realms of Machine Learning and Deep Learning with frameworks like TensorFlow and PyTorch.
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, ML Research, and Research Assistant🎨!
+I'm a Full-Stack Web Developer 💻, ML Research Assistant and Python Instructor🎨!
 </h2> 
 
 As a software engineer, I love the art of crafting creative websites and thrive on the challenge of uncovering hidden complexities. Whether in code or connections, my passion extends to AI engineering, where I unravel intricate challenges with the same curiosity and problem-solving zeal.
 
-### 🤝 Connect with me:
+### 🤝 Connect with me: 
 
 <a href="https://www.linkedin.com/in/rashed9810/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="rashed9810 | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/rashed_mahmud7"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="rashed_mahmud7 | Instagram" width="21px"/></a>
