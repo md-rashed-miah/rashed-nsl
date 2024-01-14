@@ -13,7 +13,7 @@ As a software engineer, I love the art of crafting creative websites and thrive 
 
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on AI Engineer at Next Solution Lab
+## 🔭 I'm currently working on at Next Solution Lab
 
 l
 
