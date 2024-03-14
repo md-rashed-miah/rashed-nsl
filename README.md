@@ -15,44 +15,6 @@ As a software engineer, I love the art of crafting creative websites and thrive 
 
 ## 🔭 I'm currently working on at Next Solution Lab
 
-
-
-🌱 I'm currently learning:
-JavaScript
-React.js
-Node.js
-MongoDB
-Frontend (React.js):
-React.js Fundamentals
-JSX (JavaScript XML)
-State Management (React Hooks, Redux)
-Client-side Routing (React Router)
-API Integration
-Responsive Design (Bootstrap, Material-UI)
-Testing (Jest, React Testing Library)
-Backend (Node.js):
-Node.js Basics
-Express.js
-RESTful API Design
-Database Knowledge (MongoDB, MySQL)
-Authentication and Authorization (JWT, OAuth)
-Middleware in Express.js
-Testing (Mocha, Chai, Supertest)
-Additional Full Stack Skills:
-Version Control (Git, GitHub, GitLab)
-Command Line/Shell
-Web Security (HTTPS, encryption, secure coding)
-Containerization (Docker)
-Web Servers (Nginx, Apache)
-Additional Frontend Skills:
-React Native (for mobile development)
-Firebase (Backend as a Service)
-React Context API
-Styled Components
-Soft Skills:
-Communication
-Problem-Solving
-Agile/Scrum Methodologies
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
